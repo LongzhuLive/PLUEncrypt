@@ -1,0 +1,6 @@
+framework module PLUEncrypt {
+  umbrella header "PLUEncrypt.h"
+
+  export *
+  module * { export * }
+}
